@@ -1,3 +1,4 @@
-## My data science project
+## Test notebook
 
-Sample Deepnote notebook.
+Notebook to test the GitHub-to-workspace integration.
+
